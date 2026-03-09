@@ -1,0 +1,7 @@
+out
+*.exe
+*.vci
+*.vec
+*.sca
+src/Makefile.*
+src/leolab
